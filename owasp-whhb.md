@@ -12,7 +12,7 @@ N - NOT APPLICABLE
 
 id: 1
 
-## Browser entire application while in burp
+## Browse entire application while in burp
 
 id: 1.1
 
